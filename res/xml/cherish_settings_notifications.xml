@@ -25,6 +25,12 @@
             android:defaultValue="false" />
 
     <Preference
+        android:key="edge_light_settings"
+        android:title="@string/edge_light_title"
+        android:summary="@string/edge_light_summary"
+        android:fragment="com.cherish.settings.fragments.doze.EdgeLightSettings" />
+
+    <Preference
         android:key="island_notification"
         android:title="@string/island_notification_title"
         android:summary="@string/island_notification_summary"
