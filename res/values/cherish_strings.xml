@@ -803,4 +803,9 @@
     <!-- Less boring heads up -->
     <string name="less_boring_heads_up_title">Less boring</string>
     <string name="less_boring_heads_up_summary">Display popup notifications only for alarm, dialer and messaging app</string>
+
+    <!-- Advanced Freeform -->
+    <string name="advanced_freeform_settings_title">Advanced Freeform Window</string>
+    <string name="advanced_freeform_enabled_title">Advanced Freeform Window Enabled</string>
+    <string name="advanced_freeform_enabled_summary">Android freeform multi-window function</string>
 </resources>
