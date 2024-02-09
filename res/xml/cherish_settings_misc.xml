@@ -60,6 +60,13 @@
                android:title="@string/advanced_freeform_enabled_title"
                android:summary="@string/advanced_freeform_enabled_summary"
                settings:controller="com.android.settings.AdvancedFreeformPreferenceController"/>
+
+          <com.cherish.settings.preferences.GlobalSettingSwitchPreference
+               android:defaultValue="false"
+               android:key="freeform_use_veiled_resize"
+               android:title="@string/advanced_freeform_use_veiled_resize_title"
+               android:summary="@string/advanced_freeform_use_veiled_resize_summary"
+               settings:controller="com.android.settings.AdvancedFreeformPreferenceController"/>
      </PreferenceCategory>
 		
 </PreferenceScreen>
