@@ -793,4 +793,14 @@
     <string name="notification_color">Notification color</string>
     <string name="wallpaper_color">Wallpaper color</string>
     <string name="custom_color">Custom color</string>
+
+    <!-- Heads up timeout -->
+    <string name="notification_heads_up_title">Heads up</string>
+    <string name="notification_heads_up_summary">Allow pop up notifications</string>
+    <string name="notification_heads_up_timeout_title">Time out</string>
+    <string name="notification_heads_up_timeout_summary">Time to display heads up notifications</string>
+
+    <!-- Less boring heads up -->
+    <string name="less_boring_heads_up_title">Less boring</string>
+    <string name="less_boring_heads_up_summary">Display popup notifications only for alarm, dialer and messaging app</string>
 </resources>
